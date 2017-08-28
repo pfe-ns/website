@@ -3,8 +3,10 @@
 # Prvo polugodište
 
 ## Uvod
+
 ### Predavanja:
 - O sekciji primenjene fizike i elektronike
+
 ### Vežbe:
 - organska baterija
 - model jednosmernog motora
