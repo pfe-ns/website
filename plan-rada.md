@@ -49,7 +49,7 @@
 - merenje karakteristika fototranzistora
 - pojačavač zvučnog signala
 - analogni servo kontroler
-- merenje broja outkucaja srca
+- merenje broja otkucaja srca
 
 
 
