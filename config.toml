@@ -1,0 +1,27 @@
+archetypeDir           = "archetypes"
+baseUrl                = "http://pfe-sekcija.me"
+buildDrafts            = true
+relativeURLs           = true
+canonifyUrls           = true
+contentDir             = "content"
+languageCode           = "en-us"
+layoutDir              = "layouts"
+publishDir             = "docs"
+enableEmoji            = true
+DefaultContentLanguage = "en"
+title = "Sekcija primenjene fizike i elektronike"
+contentdir = "content"
+publishdir = "public"
+builddrafts = true
+canonifyurls = true
+author = "sekcija"
+theme = "pixyll"
+
+[indexes]
+  category = "categories"
+  tag = "tags"
+
+[params]
+  search_engine = false
+  google_analytics_id = "XX-XXXXXXXX-X"
+  paginate = true
