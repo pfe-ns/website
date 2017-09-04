@@ -6,4 +6,4 @@ draft = false
 author = "sekcija"
 +++
 
-Sekija u 2017 / 18. godini započinje sa svojim radom 20. septembra 2017. godine. Nastava sekcije će se održavati u učionici 24.
+Sekcija u 2017 / 18. godini započinje sa svojim radom u sredu, 20. septembra 2017. godine. Nastava sekcije će se održavati u učionici 24.
