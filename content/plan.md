@@ -76,7 +76,7 @@ Nastavni plan i program sekcije primenjene fizike i elektronike Gimnazije “Jov
 
 #### Predavanja:
 - Struktura računara
-- Opisvanje hardvera u VHDL
+- Opisivanje hardvera u VHDL
 - Mašinski jezik
 
 #### Vežbe:
