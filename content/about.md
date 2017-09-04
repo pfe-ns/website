@@ -1,3 +1,7 @@
++++
+title = "O sekciji"
++++
+
 # O sekciji
 
 Sekcija primenjene fizike i elektronike se održava u okviru Gimnazije “Jovan Jovanović Zmaj” od početka 2016. godine sa idejom da veći broj zainteresovanih učenika upozna sa oblastima elektronike, programiranja, robotike i mašinskog učenja.
