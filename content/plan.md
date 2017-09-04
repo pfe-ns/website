@@ -12,9 +12,8 @@ Nastavni plan i program sekcije primenjene fizike i elektronike Gimnazije “Jov
 #### Vežbe:
 - organska baterija
 - model jednosmernog motora
-- raznobojno osvetljenje
 - detektor blizine
-- radionica lemljenja
+- raznobojno osvetljenje
 - zvučni generator funkcije
 
 
@@ -132,7 +131,7 @@ Nastavni plan i program sekcije primenjene fizike i elektronike Gimnazije “Jov
 
 #### Predavanja:
 - Struktura mikrokontrolera i njegovih periferija
-- Uvod u C++
+- Uvod u C++ programiranje
 - Kontrola periferija i vrste komunikacije
 
 #### Vežbe:
@@ -155,5 +154,5 @@ Nastavni plan i program sekcije primenjene fizike i elektronike Gimnazije “Jov
 - očitavanje merenja akcelerometra
 - kontrola servo motora
 - dinamički model jednosmernog motora
-- dinamički model disk kočnica
+- dinamički model disk kočnice
 - implementacija PID kontrolera
