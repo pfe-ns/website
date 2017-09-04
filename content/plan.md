@@ -2,8 +2,6 @@
 title = "Plan rada"
 +++
 
-# Plan rada
-
 Nastavni plan i program sekcije primenjene fizike i elektronike Gimnazije “Jovan Jovanović Zmaj” u Novom Sadu za školsku 2017 / 18. godinu.
 
 ## Prvo polugodište
