@@ -1,22 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Posts on Sekcija primenjene fizike i elektronike </title>
+      <title>Izložba on Sekcija primenjene fizike i elektronike </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://pfe-sekcija.me/post/</link>
+    <link>http://pfe-sekcija.me/tags/izlo%C5%BEba/</link>
     <language>en-us</language>
     
     
-    <updated>Tue, 05 Sep 2017 00:00:00 UTC</updated>
-    
-    <item>
-      <title>Početak sekcije</title>
-      <link>http://pfe-sekcija.me/post/pocetak-2017-18/</link>
-      <pubDate>Tue, 05 Sep 2017 00:00:00 UTC</pubDate>
-      
-      <guid>http://pfe-sekcija.me/post/pocetak-2017-18/</guid>
-      <description>Sekija u 2017 / 18. godini započinje sa svojim radom 20. septembra 2017. godine. Nastava sekcije će se održavati u učionici 24.</description>
-    </item>
+    <updated>Tue, 18 Apr 2017 00:00:00 UTC</updated>
     
     <item>
       <title>Festival nauke &#34;Da(j)te se na znanje&#34;</title>
