@@ -24,4 +24,4 @@ theme = "pixyll"
 [params]
   search_engine = false
   google_analytics_id = "XX-XXXXXXXX-X"
-  paginate = true
+  paginate = 5
