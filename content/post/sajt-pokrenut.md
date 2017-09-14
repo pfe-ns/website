@@ -1,6 +1,6 @@
 +++
 title = "Sajt sekcije"
-date = "2017-04-20"
+date = "2017-03-12"
 tags = ["obaveštenje"]
 draft = false
 author = "sekcija"
