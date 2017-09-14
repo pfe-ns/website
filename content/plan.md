@@ -12,10 +12,9 @@ Nastavni plan i program sekcije primenjene fizike i elektronike Gimnazije “Jov
 - O sekciji primenjene fizike i elektronike
 
 #### Vežbe:
-- organska baterija
 - model jednosmernog motora
 - detektor blizine
-- raznobojno osvetljenje
+- svetleće diode
 - zvučni generator funkcije
 
 
