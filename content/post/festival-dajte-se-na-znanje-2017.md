@@ -1,12 +1,12 @@
 +++
-title = "Festival nauke \"Da(j)te se na znanje\""
+title = "Festival nauke \"Daj(t)e se na znanje\""
 date = "2017-04-18"
 tags = ["izložba", "festival"]
 draft = false
 author = "sekcija"
 +++
 
-U Prvoj Kragujevačkoj gimnaziji je održan festival nauke "Da(j)te se na znanje" na kojem su učestvovale PFE sekcije iz Novog Sada, Beograda, Kragujevca i Požege.
+U Prvoj Kragujevačkoj gimnaziji je održan festival nauke "Daj(t)e se na znanje" na kojem su učestvovale PFE sekcije iz Novog Sada, Beograda, Kragujevca i Požege.
 
 <center>
 
