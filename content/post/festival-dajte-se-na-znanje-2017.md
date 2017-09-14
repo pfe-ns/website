@@ -1,7 +1,7 @@
 +++
 title = "Festival nauke \"Daj(t)e se na znanje\""
 date = "2017-04-18"
-tags = ["izložba", "festival"]
+tags = ["izložba"]
 draft = false
 author = "sekcija"
 +++
