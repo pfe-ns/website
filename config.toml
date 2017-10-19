@@ -1,5 +1,5 @@
 archetypeDir           = "archetypes"
-baseUrl                = "http://pfe-sekcija.me"
+baseUrl                = "https://pfens.github.io/website/"
 buildDrafts            = true
 relativeURLs           = true
 canonifyUrls           = true
