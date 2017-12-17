@@ -26,4 +26,4 @@ Cilj svakog projekta je da polaznik kroz izradu projekta i rešavanje problema p
 
 Na sekciji se vodimo idejom da je deljenje tvorevina sa zajednicom veoma važno. Bez javno objavljenog znanja do kog je veoma lako doći u dobu interneta, kao i slobodnih alata koje svakodnevno koristimo u radu, rad sekcije bi bio mnogo teži. Zbog toga su svi projekti polaznika sekcije, kao i sam vebsajt slobodne licence i otvorenog koda.
 
-Izvornom kodu i podacima polazničkih projekata možete pristupiti na zvaničnoj [GitHUb stranici](https://github.com/pfens) sekcije.
+Izvornom kodu i podacima polazničkih projekata možete pristupiti na zvaničnoj [*GitHub* stranici](https://github.com/pfens) sekcije.
