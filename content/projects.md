@@ -13,6 +13,7 @@ Cilj svakog projekta je da polaznik kroz izradu projekta i rešavanje problema p
 - Poređenje laserskog i ultrazvučnog merača brzine
 - Detekcija glasovne komande u realnom vremenu
 - Audio skretnica sa pojačalom
+- FM radio predajnik
 
 #### 2016 / 2017
 
