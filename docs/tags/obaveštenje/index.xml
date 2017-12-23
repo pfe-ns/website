@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Obaveštenje on Sekcija primenjene fizike i elektronike </title>
-      <generator uri="https://gohugo.io">Hugo</generator>
+    <title>Obaveštenje on Sekcija primenjene fizike i elektronike</title>
     <link>https://pfens.github.io/website/tags/obave%C5%A1tenje/</link>
+    <description>Recent content in Obaveštenje on Sekcija primenjene fizike i elektronike</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 05 Sep 2017 00:00:00 +0000</lastBuildDate>
     
+	<atom:link href="https://pfens.github.io/website/tags/obave%C5%A1tenje/index.xml" rel="self" type="application/rss+xml" />
     
-    <updated>Tue, 05 Sep 2017 00:00:00 UTC</updated>
     
     <item>
       <title>Početak sekcije</title>
       <link>https://pfens.github.io/website/post/pocetak-2017-18/</link>
-      <pubDate>Tue, 05 Sep 2017 00:00:00 UTC</pubDate>
+      <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>https://pfens.github.io/website/post/pocetak-2017-18/</guid>
       <description>Sekcija u 2017 / 18. godini započinje sa svojim radom u četvrtak, 21. septembra 2017. godine u 19:30 časova. Nastava sekcije će se održavati u učionici 24.</description>
@@ -21,7 +23,7 @@
     <item>
       <title>Izveštaj za 2016/17. godinu</title>
       <link>https://pfens.github.io/website/post/izvestaj-2016-17/</link>
-      <pubDate>Tue, 30 May 2017 00:00:00 UTC</pubDate>
+      <pubDate>Tue, 30 May 2017 00:00:00 +0000</pubDate>
       
       <guid>https://pfens.github.io/website/post/izvestaj-2016-17/</guid>
       <description>Izveštaj sekcije primenjene fizike i elektronike Gimnazije “Jovan Jovanović Zmaj” za školsku 2016 / 17. godinu.
@@ -32,7 +34,7 @@ Predavanja U školskoj godini je održano trideset šest predavanja podeljenih u
     <item>
       <title>Sajt sekcije</title>
       <link>https://pfens.github.io/website/post/sajt-pokrenut/</link>
-      <pubDate>Sun, 12 Mar 2017 00:00:00 UTC</pubDate>
+      <pubDate>Sun, 12 Mar 2017 00:00:00 +0000</pubDate>
       
       <guid>https://pfens.github.io/website/post/sajt-pokrenut/</guid>
       <description>Dobrodošli na sajt sekcije. Na njemu možete pratiti sva dešavanja na sekciji, kao i da preuzmete prezentacije sa predavanja.
@@ -41,4 +43,3 @@ Za više informacija, posetite stranicu o nama.</description>
     
   </channel>
 </rss>
-

@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Izložba on Sekcija primenjene fizike i elektronike </title>
-      <generator uri="https://gohugo.io">Hugo</generator>
+    <title>Izložba on Sekcija primenjene fizike i elektronike</title>
     <link>https://pfens.github.io/website/tags/izlo%C5%BEba/</link>
+    <description>Recent content in Izložba on Sekcija primenjene fizike i elektronike</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 18 Apr 2017 00:00:00 +0000</lastBuildDate>
     
+	<atom:link href="https://pfens.github.io/website/tags/izlo%C5%BEba/index.xml" rel="self" type="application/rss+xml" />
     
-    <updated>Tue, 18 Apr 2017 00:00:00 UTC</updated>
     
     <item>
       <title>Festival nauke &#34;Daj(t)e se na znanje&#34;</title>
       <link>https://pfens.github.io/website/post/festival-dajte-se-na-znanje-2017/</link>
-      <pubDate>Tue, 18 Apr 2017 00:00:00 UTC</pubDate>
+      <pubDate>Tue, 18 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://pfens.github.io/website/post/festival-dajte-se-na-znanje-2017/</guid>
       <description>U Prvoj Kragujevačkoj gimnaziji je održan festival nauke &amp;ldquo;Daj(t)e se na znanje&amp;rdquo; na kojem su učestvovale PFE sekcije iz Novog Sada, Beograda, Kragujevca i Požege.</description>
@@ -20,4 +22,3 @@
     
   </channel>
 </rss>
-

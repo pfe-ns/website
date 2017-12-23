@@ -2,7 +2,7 @@
 title = "Sponzorstvo i donacije"
 +++
 
-U realizaciji programa sekcije, veoma nam je važno da polaznicima obezbedimo odgovarajući alat i elektronske komponente u radu. Ukoliko želite da olakšate i unapredite rad sekcije, možete nam pomoći kupovinom potrebnog materijala, kao i novčanim sredstvima.
+U realizaciji programa sekcije, veoma nam je važno da polaznicima obezbedimo odgovarajući alat i elektronske komponente u radu. Ukoliko želite da olakšate i unapredite rad sekcije, možete nam pomoći kupovinom potrebne opreme ili knjiga, organizacijom predavanja i radionica, kao i novčanim sredstvima.
 
 ### Prijatelji sekcije
 <table style="width: 100%; text-align: center; text-align-last: center;">
