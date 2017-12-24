@@ -38,11 +38,11 @@ U realizaciji programa sekcije, veoma nam je važno da polaznicima obezbedimo od
         <td height="30px"></td>
     </tr>
     <tr>
-         <td width="33.3%">
+        <!-- <td width="33.3%">
             <a href="http://startit.rs/" target="_blank">
                 <img height="75px" src="/images/startit.svg" />
             </a>
-        </td>
+        </td> -->
         <td width="33.3%">
             <a href="mailto:pfe@jjzmaj.edu.rs?cc=pfe.novi.sad@gmail.com">
                 <img height="75px" src="/images/plus.svg" style="fill: #000;"/>
@@ -50,9 +50,9 @@ U realizaciji programa sekcije, veoma nam je važno da polaznicima obezbedimo od
         </td>
     </tr>
     <tr style="font-size: 12pt;">
-        <td>
+        <!-- <td>
             Startit
-        </td>
+        </td> -->
         <td>
             Postanite sponzor
         </td>
