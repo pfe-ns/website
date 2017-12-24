@@ -22,8 +22,8 @@ theme = "pixyll"
   tag = "tags"
 
 [params]
-  search_engine = false
-  google_analytics_id = "XX-XXXXXXXX-X"
+  search_engine = true
+  google_analytics_id = "UA-106840100-2"
   paginate = 4
 
 [taxonomies]
