@@ -1,20 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sekcija primenjene fizike i elektronike</title>
+      <title>Sekcija primenjene fizike i elektronike on Sekcija primenjene fizike i elektronike </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
     <link>https://pfens.github.io/website/</link>
-    <description>Recent content on Sekcija primenjene fizike i elektronike</description>
-    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Sep 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://pfens.github.io/website/index.xml" rel="self" type="application/rss+xml" />
     
+    <updated>Tue, 05 Sep 2017 00:00:00 UTC</updated>
     
     <item>
       <title>Početak sekcije</title>
       <link>https://pfens.github.io/website/post/pocetak-2017-18/</link>
-      <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 05 Sep 2017 00:00:00 UTC</pubDate>
       
       <guid>https://pfens.github.io/website/post/pocetak-2017-18/</guid>
       <description>Sekcija u 2017 / 18. godini započinje sa svojim radom u četvrtak, 21. septembra 2017. godine u 19:30 časova. Nastava sekcije će se održavati u učionici 24.</description>
@@ -23,7 +21,7 @@
     <item>
       <title>Izveštaj za 2016/17. godinu</title>
       <link>https://pfens.github.io/website/post/izvestaj-2016-17/</link>
-      <pubDate>Tue, 30 May 2017 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 30 May 2017 00:00:00 UTC</pubDate>
       
       <guid>https://pfens.github.io/website/post/izvestaj-2016-17/</guid>
       <description>Izveštaj sekcije primenjene fizike i elektronike Gimnazije “Jovan Jovanović Zmaj” za školsku 2016 / 17. godinu.
@@ -34,7 +32,7 @@ Predavanja U školskoj godini je održano trideset šest predavanja podeljenih u
     <item>
       <title>Državno takmičenje 2017</title>
       <link>https://pfens.github.io/website/post/drzavno-takmicenje-2017/</link>
-      <pubDate>Sat, 27 May 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 27 May 2017 00:00:00 UTC</pubDate>
       
       <guid>https://pfens.github.io/website/post/drzavno-takmicenje-2017/</guid>
       <description>Državno takmičenje iz primenjene fizike i elektronike je održano 27. maja 2017. godine u Matematičkoj gimnaziji u Beogradu. Na tačmičenju je učestvovalo trinaest učenika sa sekcija iz Novog Sada, Beograda i Kragujevca. Srđan Radović i Predrag Ožegović, učenici Gimnazije “Jovan Jovanović Zmaj”, su osvojili redom drugu i treću nagradu.</description>
@@ -43,7 +41,7 @@ Predavanja U školskoj godini je održano trideset šest predavanja podeljenih u
     <item>
       <title>Sekcijsko takmičenje 2017</title>
       <link>https://pfens.github.io/website/post/sekcijsko-takmicenje-2017/</link>
-      <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 04 May 2017 00:00:00 UTC</pubDate>
       
       <guid>https://pfens.github.io/website/post/sekcijsko-takmicenje-2017/</guid>
       <description>Sekcijsko tamičenje je održano 3. maja 2017. godine. Na takmičenju je učestvovalo četiri učenika. Prvo mesto je osvojio Lazar Pajović-Đurović, drugo mesto je osvojio Srđan Radović, a treće mesto je osvojio Predrag Ožegović.</description>
@@ -52,7 +50,7 @@ Predavanja U školskoj godini je održano trideset šest predavanja podeljenih u
     <item>
       <title>Festival nauke &#34;Daj(t)e se na znanje&#34;</title>
       <link>https://pfens.github.io/website/post/festival-dajte-se-na-znanje-2017/</link>
-      <pubDate>Tue, 18 Apr 2017 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 18 Apr 2017 00:00:00 UTC</pubDate>
       
       <guid>https://pfens.github.io/website/post/festival-dajte-se-na-znanje-2017/</guid>
       <description>U Prvoj Kragujevačkoj gimnaziji je održan festival nauke &amp;ldquo;Daj(t)e se na znanje&amp;rdquo; na kojem su učestvovale PFE sekcije iz Novog Sada, Beograda, Kragujevca i Požege.</description>
@@ -61,7 +59,7 @@ Predavanja U školskoj godini je održano trideset šest predavanja podeljenih u
     <item>
       <title>Sajt sekcije</title>
       <link>https://pfens.github.io/website/post/sajt-pokrenut/</link>
-      <pubDate>Sun, 12 Mar 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 12 Mar 2017 00:00:00 UTC</pubDate>
       
       <guid>https://pfens.github.io/website/post/sajt-pokrenut/</guid>
       <description>Dobrodošli na sajt sekcije. Na njemu možete pratiti sva dešavanja na sekciji, kao i da preuzmete prezentacije sa predavanja.
@@ -71,7 +69,7 @@ Za više informacija, posetite stranicu o nama.</description>
     <item>
       <title>O sekciji</title>
       <link>https://pfens.github.io/website/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
       
       <guid>https://pfens.github.io/website/about/</guid>
       <description>Sekcija primenjene fizike i elektronike se održava u okviru Gimnazije “Jovan Jovanović Zmaj” od početka 2016. godine sa idejom da veći broj zainteresovanih učenika upozna sa oblastima elektronike, programiranja, robotike i mašinskog učenja.
@@ -81,7 +79,7 @@ Plan rada sekcije se zasniva na programu istoimenog seminara u Istraživačkoj s
     <item>
       <title>Plan rada</title>
       <link>https://pfens.github.io/website/plan/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
       
       <guid>https://pfens.github.io/website/plan/</guid>
       <description> Nastavni plan i program sekcije primenjene fizike i elektronike Gimnazije “Jovan Jovanović Zmaj” u Novom Sadu za školsku 2017 / 18. godinu.
@@ -91,7 +89,7 @@ Prvo polugodište Uvod Predavanja:  O sekciji primenjene fizike i elektronike  V
     <item>
       <title>Predavanja</title>
       <link>https://pfens.github.io/website/lectures/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
       
       <guid>https://pfens.github.io/website/lectures/</guid>
       <description> Svake nedelje tokom školske godine, na sekciji se održavaju predavanja na kojima se polaznici upoznaju sa svim oblastima primenjene fizike i elektronike. U cilju što boljeg upoznavanja sa gradivom, na sekciji ima više predavača stručnih za pojedinačne oblasti.
@@ -101,7 +99,7 @@ Prezentacije  </description>
     <item>
       <title>Projekti</title>
       <link>https://pfens.github.io/website/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
       
       <guid>https://pfens.github.io/website/projects/</guid>
       <description>Cilj svakog projekta je da polaznik kroz izradu projekta i rešavanje problema proširi znanje iz određene oblasti, kao i da na kraju ima rezultat koji kasnije predstavljamo na raznim konferencijama, sajmovima i izložbama. Za razliku od seminara u IS Petnici, na našoj sekciji naučno-istraživački metod pri izradi projekta nije obavezan, ali ga podstičemo kako bi naše polaznike upoznali sa naukom već u srednjoj školi.
@@ -111,7 +109,7 @@ Projekti na sekciji 2017 / 2018  Hardversko ubrzanje kriptografskih algoritama n
     <item>
       <title>Sponzorstvo i donacije</title>
       <link>https://pfens.github.io/website/partners/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 UTC</pubDate>
       
       <guid>https://pfens.github.io/website/partners/</guid>
       <description> U realizaciji programa sekcije, veoma nam je važno da polaznicima obezbedimo odgovarajući alat i elektronske komponente u radu. Ukoliko želite da olakšate i unapredite rad sekcije, možete nam pomoći kupovinom potrebne opreme ili knjiga, organizacijom predavanja i radionica, kao i novčanim sredstvima.
@@ -121,3 +119,4 @@ Potrebna oprema  Mikrokontroleri: Arduino, PIC, ST, Espressif Senzori: akcelerom
     
   </channel>
 </rss>
+

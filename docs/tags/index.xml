@@ -1,20 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Sekcija primenjene fizike i elektronike</title>
+      <title>Tags on Sekcija primenjene fizike i elektronike </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
     <link>https://pfens.github.io/website/tags/</link>
-    <description>Recent content in Tags on Sekcija primenjene fizike i elektronike</description>
-    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Apr 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://pfens.github.io/website/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    <updated>Tue, 18 Apr 2017 00:00:00 UTC</updated>
     
     <item>
       <title>Izložba</title>
       <link>https://pfens.github.io/website/tags/izlo%C5%BEba/</link>
-      <pubDate>Tue, 18 Apr 2017 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 18 Apr 2017 00:00:00 UTC</pubDate>
       
       <guid>https://pfens.github.io/website/tags/izlo%C5%BEba/</guid>
       <description></description>
@@ -23,7 +21,7 @@
     <item>
       <title>Obaveštenje</title>
       <link>https://pfens.github.io/website/tags/obave%C5%A1tenje/</link>
-      <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 05 Sep 2017 00:00:00 UTC</pubDate>
       
       <guid>https://pfens.github.io/website/tags/obave%C5%A1tenje/</guid>
       <description></description>
@@ -32,7 +30,7 @@
     <item>
       <title>Takmičenje</title>
       <link>https://pfens.github.io/website/tags/takmi%C4%8Denje/</link>
-      <pubDate>Sat, 27 May 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 27 May 2017 00:00:00 UTC</pubDate>
       
       <guid>https://pfens.github.io/website/tags/takmi%C4%8Denje/</guid>
       <description></description>
@@ -40,3 +38,4 @@
     
   </channel>
 </rss>
+
