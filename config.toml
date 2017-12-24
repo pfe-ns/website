@@ -15,7 +15,7 @@ publishdir = "public"
 builddrafts = true
 canonifyurls = true
 author = "sekcija"
-theme = "pixyll"
+theme = "pfe_pixyll"
 
 [indexes]
   category = "categories"

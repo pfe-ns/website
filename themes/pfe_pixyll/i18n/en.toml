@@ -1,0 +1,29 @@
+[about]
+other = "O nama"
+
+[contact]
+other = "Kontakt"
+
+[tags]
+other = "Oznake"
+
+[search]
+other = "Pretraga"
+
+[written]
+other = "Napisao"
+
+[newer]
+other = "Novije"
+
+[older]
+other = "Starije"
+
+[lectures]
+other = "Predavanja"
+
+[plan]
+other = "Plan rada"
+
+[projects]
+other = "Projekti"
