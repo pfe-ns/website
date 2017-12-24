@@ -18,8 +18,8 @@ U realizaciji programa sekcije, veoma nam je važno da polaznicima obezbedimo od
             </a>
         </td>
         <td width="33.3%">
-            <a href="mailto:pfe@jjzmaj.edu.rs?cc=pfe.novi.sad@gmail.com">
-                <img height="75px" src="/images/plus.svg" style="fill: #000;"/>
+            <a href="#">
+                <img height="75px" src="/images/lass-trade.svg" style="fill: #000;"/>
             </a>
         </td>
     </tr>
@@ -29,6 +29,29 @@ U realizaciji programa sekcije, veoma nam je važno da polaznicima obezbedimo od
         </td>
         <td>
             Tilda Center
+        </td>
+        <td>
+            Lass trade
+        </td>
+    </tr>
+    <tr>
+        <td height="30px"></td>
+    </tr>
+    <tr>
+         <td width="33.3%">
+            <a href="http://startit.rs/" target="_blank">
+                <img height="75px" src="/images/startit.svg" />
+            </a>
+        </td>
+        <td width="33.3%">
+            <a href="mailto:pfe@jjzmaj.edu.rs?cc=pfe.novi.sad@gmail.com">
+                <img height="75px" src="/images/plus.svg" style="fill: #000;"/>
+            </a>
+        </td>
+    </tr>
+    <tr style="font-size: 12pt;">
+        <td>
+            Startit
         </td>
         <td>
             Postanite sponzor

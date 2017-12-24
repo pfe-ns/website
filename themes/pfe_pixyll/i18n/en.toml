@@ -1,3 +1,6 @@
+[title]
+other = "PFE Novi Sad"
+
 [about]
 other = "O nama"
 
@@ -27,3 +30,6 @@ other = "Plan rada"
 
 [projects]
 other = "Projekti"
+
+[partners]
+other = "Prijatelji"
