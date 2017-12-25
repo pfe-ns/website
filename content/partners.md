@@ -80,3 +80,20 @@ U realizaciji programa sekcije, veoma nam je važno da polaznicima obezbedimo od
 - Generator funkcije
 - Laboratorijski izvor napona
 - Osciloskop
+
+### Nabavljena oprema
+- Arduino UNO `5`
+- ESP8266 `2`
+- otpornici `1200`
+- kondenzatori `100`
+- NPN tranzistori `80`
+- jumper kablovi `100`
+- servo motori `3`
+- USB A na B kablovi `4`
+- ultrazvučni senzor `2`
+- protoboard `8`
+- LCD displej `1`
+- operacioni pojačavači `5`
+- LED diode `30`
+- laboratirijski izvor napona `1`
+- [dopunite listu](mailto:pfe@jjzmaj.edu.rs?cc=pfe.novi.sad@gmail.com)
