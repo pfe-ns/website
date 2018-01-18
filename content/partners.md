@@ -38,11 +38,16 @@ U realizaciji programa sekcije, veoma nam je važno da polaznicima obezbedimo od
         <td height="30px"></td>
     </tr>
     <tr>
-        <!-- <td width="33.3%">
-            <a href="http://startit.rs/" target="_blank">
-                <img height="75px" src="/images/startit.svg" />
+        <td width="33.3%">
+            <a href="http://pfemg.mgucenici.edu.rs/" target="_blank">
+                <img height="75px" src="/images/pfe-mg.svg" />
             </a>
-        </td> -->
+        </td>
+        <td width="33.3%">
+            <a href="https://apekg.wordpress.com/" target="_blank">
+                <img height="75px" src="/images/pfe-kg.svg" />
+            </a>
+        </td>
         <td width="33.3%">
             <a href="mailto:pfe@jjzmaj.edu.rs?cc=pfe.novi.sad@gmail.com">
                 <img height="75px" src="/images/plus.svg" style="fill: #000;"/>
@@ -50,9 +55,12 @@ U realizaciji programa sekcije, veoma nam je važno da polaznicima obezbedimo od
         </td>
     </tr>
     <tr style="font-size: 12pt;">
-        <!-- <td>
-            Startit
-        </td> -->
+        <td>
+            PFE Beograd
+        </td>
+        <td>
+            PFE Kragujevac
+        </td>
         <td>
             Postanite sponzor
         </td>
@@ -80,3 +88,20 @@ U realizaciji programa sekcije, veoma nam je važno da polaznicima obezbedimo od
 - Generator funkcije
 - Laboratorijski izvor napona
 - Osciloskop
+
+### Nabavljena oprema
+- Arduino UNO `5`
+- ESP8266 `2`
+- otpornici `1200`
+- kondenzatori `100`
+- NPN tranzistori `80`
+- jumper kablovi `100`
+- servo motori `3`
+- USB A na B kablovi `4`
+- ultrazvučni senzor `2`
+- protoboard `8`
+- LCD displej `1`
+- operacioni pojačavači `5`
+- LED diode `30`
+- laboratirijski izvor napona `1`
+- [dopunite listu](mailto:pfe@jjzmaj.edu.rs?cc=pfe.novi.sad@gmail.com)

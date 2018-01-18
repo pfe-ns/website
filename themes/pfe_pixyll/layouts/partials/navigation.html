@@ -1,7 +1,9 @@
+<a href="{{ .Site.BaseURL }}{{ .Site.LanguagePrefix }}/">{{ i18n "feed" }}</a>
 <a href="{{ .Site.BaseURL }}{{ .Site.LanguagePrefix }}/lectures/">{{ i18n "lectures" }}</a>
 <a href="{{ .Site.BaseURL }}{{ .Site.LanguagePrefix }}/plan/">{{ i18n "plan" }}</a>
 <a href="{{ .Site.BaseURL }}{{ .Site.LanguagePrefix }}/projects/">{{ i18n "projects" }}</a>
-<a href="{{ .Site.BaseURL }}{{ .Site.LanguagePrefix }}/about/">{{ i18n "about" }}</a>
+<!-- <a href="{{ .Site.BaseURL }}{{ .Site.LanguagePrefix }}/partners/">{{ i18n "partners" }}</a>
+<a href="{{ .Site.BaseURL }}{{ .Site.LanguagePrefix }}/about/">{{ i18n "about" }}</a> -->
 
 {{- if .Site.IsMultiLingual -}}
 {{- range $lang := .Site.Languages -}}

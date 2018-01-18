@@ -1,11 +1,27 @@
 <header class="site-header px2 px-responsive">
   <div class="mt2 wrap">
     <div class="measure">
-      <a href="{{ .Site.BaseURL }}{{ .Site.LanguagePrefix }}" class="site-title">{{ .Site.Title }}</a>
-      <nav class="site-nav right">
-      {{ partial "navigation.html" . }}
+      <a href="{{ .Site.BaseURL }}{{ .Site.LanguagePrefix }}" class="site-title">
+        {{ .Site.Title }}
+      </a>
+      <div class="clearfix"></div>
+  </div>
+  <div class="mt1 wrap">
+    <div class="measure">
+      <nav class="site-nav left" style="margin-bottom: 0 !important">
+        {{ partial "navigation.html" . }}
+      </nav>
+      <nav class="site-nav right" style="margin-bottom: 0 !important">
+          <a href="{{ .Site.BaseURL }}{{ .Site.LanguagePrefix }}/partners/">{{ i18n "partners" }}</a>
+          <a href="{{ .Site.BaseURL }}{{ .Site.LanguagePrefix }}/about/">{{ i18n "about" }}</a>
       </nav>
       <div class="clearfix"></div>
+      <hr style="display: block;
+                 height: 1px;
+                 border: 0;
+                 border-top: 2px solid #1980d2;
+                 margin: 0.5em 0;
+                 padding: 0;"/>
     </div>
   </div>
 </header>

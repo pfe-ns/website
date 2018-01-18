@@ -1,5 +1,5 @@
 archetypeDir           = "archetypes"
-baseUrl                = "https://pfens.github.io/website/"
+baseUrl                = "https://pfens.github.io/website"
 buildDrafts            = true
 relativeURLs           = true
 canonifyUrls           = true
@@ -9,7 +9,7 @@ layoutDir              = "layouts"
 publishDir             = "docs"
 enableEmoji            = true
 DefaultContentLanguage = "en"
-title = "Sekcija primenjene fizike i elektronike"
+title = "Sekcija primenjene fizike i elektronike u Novom Sadu"
 contentdir = "content"
 publishdir = "public"
 builddrafts = true

@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Sekcija primenjene fizike i elektronike on Sekcija primenjene fizike i elektronike </title>
+      <title>Sekcija primenjene fizike i elektronike u Novom Sadu on Sekcija primenjene fizike i elektronike u Novom Sadu </title>
       <generator uri="https://gohugo.io">Hugo</generator>
     <link>https://pfens.github.io/website/</link>
     <language>en-us</language>
     
     
-    <updated>Tue, 05 Sep 2017 00:00:00 UTC</updated>
+    <updated>Sat, 13 Jan 2018 00:00:00 UTC</updated>
+    
+    <item>
+      <title>Nastavak sekcije u drugom polugodištu</title>
+      <link>https://pfens.github.io/website/post/pocetak-2017-18.1/</link>
+      <pubDate>Sat, 13 Jan 2018 00:00:00 UTC</pubDate>
+      
+      <guid>https://pfens.github.io/website/post/pocetak-2017-18.1/</guid>
+      <description>Sekcija se nastavlja od četvrka, 18. januara po redovnom terminu u 19:35 časova u učionici 24.</description>
+    </item>
     
     <item>
       <title>Početak sekcije</title>
@@ -113,7 +122,7 @@ Projekti na sekciji 2017 / 2018  Hardversko ubrzanje kriptografskih algoritama n
       
       <guid>https://pfens.github.io/website/partners/</guid>
       <description>U realizaciji programa sekcije, veoma nam je važno da polaznicima obezbedimo odgovarajući alat i elektronske komponente u radu. Ukoliko želite da olakšate i unapredite rad sekcije, možete nam pomoći kupovinom potrebne opreme ili knjiga, organizacijom predavanja i radionica, kao i novčanim sredstvima.
-Prijatelji sekcije          IS Petnica   Tilda Center   Lass trade         --    Startit  --  Postanite sponzor</description>
+Prijatelji sekcije          IS Petnica   Tilda Center   Lass trade               PFE Beograd   PFE Kragujevac   Postanite sponzor</description>
     </item>
     
   </channel>
