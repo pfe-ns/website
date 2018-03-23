@@ -1,5 +1,5 @@
 +++
-title = "Festival nauke \"Daj(t)e se na znanje\""
+title = "PFE konferencija 2018"
 date = "2018-03-22"
 tags = ["izložba"]
 draft = false
