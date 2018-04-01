@@ -103,7 +103,7 @@ Nastavni plan i program sekcije primenjene fizike i elektronike Gimnazije “Jov
 
 #### Predavanja:
 - Obrada i analiza zvučnog signala
-- Obrada slike
+- Obrada slike i detekcija objekata
 
 #### Vežbe:
 - određivanje muzičkih nota u zvučnom snimku
