@@ -88,7 +88,7 @@ U realizaciji programa sekcije, veoma nam je važno da polaznicima obezbedimo od
 - Generator funkcije
 - Laboratorijski izvor napona
 - Osciloskop
-
+<!-- 
 ### Nabavljena oprema
 - Arduino UNO `5`
 - ESP8266 `2`
@@ -104,4 +104,4 @@ U realizaciji programa sekcije, veoma nam je važno da polaznicima obezbedimo od
 - operacioni pojačavači `5`
 - LED diode `30`
 - laboratirijski izvor napona `1`
-- [dopunite listu](mailto:pfe@jjzmaj.edu.rs?cc=pfe.novi.sad@gmail.com)
+- [dopunite listu](mailto:pfe@jjzmaj.edu.rs?cc=pfe.novi.sad@gmail.com) -->
