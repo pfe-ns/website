@@ -29,6 +29,6 @@ Letnju školu mogu pohađati svi zainteresovani srednjoškolci, nezavisno od šk
 
 Za više informacija kontaktirajte nas na [pfe.letnjaskola@gmail.com](mailto:pfe.letnjaskola@gmail.com).
 
-**Prijave su otvorene do 20. juna.**
+**Prijave su otvorene do 20. juna u 23 časa i 59 minuta.**
 
 Očekujemo vas!

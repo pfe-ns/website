@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Posts on Sekcija primenjene fizike i elektronike u Novom Sadu </title>
-      <generator uri="https://gohugo.io">Hugo</generator>
+    <title>Posts on Sekcija primenjene fizike i elektronike u Novom Sadu</title>
     <link>https://pfens.github.io/website/post/</link>
+    <description>Recent content in Posts on Sekcija primenjene fizike i elektronike u Novom Sadu</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 05 Jun 2018 00:00:00 +0000</lastBuildDate>
     
+	<atom:link href="https://pfens.github.io/website/post/index.xml" rel="self" type="application/rss+xml" />
     
-    <updated>Tue, 05 Jun 2018 00:00:00 UTC</updated>
     
     <item>
       <title>Letnja škola primenjene fizike i elektronike - LPfeŠ 2018</title>
       <link>https://pfens.github.io/website/post/pfe-letnja-skola-2018/</link>
-      <pubDate>Tue, 05 Jun 2018 00:00:00 UTC</pubDate>
+      <pubDate>Tue, 05 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>https://pfens.github.io/website/post/pfe-letnja-skola-2018/</guid>
       <description>Prijave za Letnju PFE školu u Kragujevcu su zvanično otvorene!
@@ -29,7 +31,7 @@ Za više informacija kontaktirajte nas na pfe.</description>
     <item>
       <title>PFE konferencija 2018</title>
       <link>https://pfens.github.io/website/post/pfe-konferencija-2018/</link>
-      <pubDate>Thu, 22 Mar 2018 00:00:00 UTC</pubDate>
+      <pubDate>Thu, 22 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>https://pfens.github.io/website/post/pfe-konferencija-2018/</guid>
       <description>U Istraživačkoj stanici Petnici, kao kod mnogih drugih naučnih institucija se svake godine održava saborna konferencija naučnih radova. Na ovakvim konferencijama se izlažu rezultati rada, razmenjuju se ideje i stiču se nova poznanstva.
@@ -40,7 +42,7 @@ Na konferenciji je izloženo preko četrdeset radova polaznika ovih sekcija.</de
     <item>
       <title>Festival nauke &#34;Daj(t)e se na znanje&#34;</title>
       <link>https://pfens.github.io/website/post/festival-dajte-se-na-znanje-2018/</link>
-      <pubDate>Wed, 21 Mar 2018 00:00:00 UTC</pubDate>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>https://pfens.github.io/website/post/festival-dajte-se-na-znanje-2018/</guid>
       <description>U Prvoj Kragujevačkoj gimnaziji je održan festival nauke &amp;ldquo;Daj(t)e se na znanje&amp;rdquo; na kojem su učestvovale PFE sekcije iz Novog Sada, Beograda, Kragujevca, Požege i Kraljeva.</description>
@@ -49,7 +51,7 @@ Na konferenciji je izloženo preko četrdeset radova polaznika ovih sekcija.</de
     <item>
       <title>Članak o PFE sekciji na Startit blogu</title>
       <link>https://pfens.github.io/website/post/startit-clanak/</link>
-      <pubDate>Fri, 23 Feb 2018 00:00:00 UTC</pubDate>
+      <pubDate>Fri, 23 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>https://pfens.github.io/website/post/startit-clanak/</guid>
       <description>Grupa srednjoškolaca iz Petnice odvaja novac od džeparca da bi učili vršnjake elektroniku, robotiku i veštačku inteligenciju U nekoliko gradova u Srbiji srednjoškolci su samostalno pokrenuli sekcije primenjene fizike i elektronike, na kojima međusobono dele znanje i rade na zanimljivim projektima.
@@ -59,7 +61,7 @@ Prošlog decembra zajedno su učestvovali na Festivalu nauke gde smo među mnogi
     <item>
       <title>Nastavak sekcije u drugom polugodištu</title>
       <link>https://pfens.github.io/website/post/pocetak-2017-18.1/</link>
-      <pubDate>Sat, 13 Jan 2018 00:00:00 UTC</pubDate>
+      <pubDate>Sat, 13 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://pfens.github.io/website/post/pocetak-2017-18.1/</guid>
       <description>Sekcija se nastavlja od četvrka, 18. januara po redovnom terminu u 19:35 časova u učionici 24.</description>
@@ -68,7 +70,7 @@ Prošlog decembra zajedno su učestvovali na Festivalu nauke gde smo među mnogi
     <item>
       <title>Početak sekcije</title>
       <link>https://pfens.github.io/website/post/pocetak-2017-18/</link>
-      <pubDate>Tue, 05 Sep 2017 00:00:00 UTC</pubDate>
+      <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>https://pfens.github.io/website/post/pocetak-2017-18/</guid>
       <description>Sekcija u 2017 / 18. godini započinje sa svojim radom u četvrtak, 21. septembra 2017. godine u 19:30 časova. Nastava sekcije će se održavati u učionici 24.</description>
@@ -77,7 +79,7 @@ Prošlog decembra zajedno su učestvovali na Festivalu nauke gde smo među mnogi
     <item>
       <title>Izveštaj za 2016/17. godinu</title>
       <link>https://pfens.github.io/website/post/izvestaj-2016-17/</link>
-      <pubDate>Tue, 30 May 2017 00:00:00 UTC</pubDate>
+      <pubDate>Tue, 30 May 2017 00:00:00 +0000</pubDate>
       
       <guid>https://pfens.github.io/website/post/izvestaj-2016-17/</guid>
       <description>Izveštaj sekcije primenjene fizike i elektronike Gimnazije “Jovan Jovanović Zmaj” za školsku 2016 / 17. godinu.
@@ -88,7 +90,7 @@ Predavanja U školskoj godini je održano trideset šest predavanja podeljenih u
     <item>
       <title>Državno takmičenje 2017</title>
       <link>https://pfens.github.io/website/post/drzavno-takmicenje-2017/</link>
-      <pubDate>Sat, 27 May 2017 00:00:00 UTC</pubDate>
+      <pubDate>Sat, 27 May 2017 00:00:00 +0000</pubDate>
       
       <guid>https://pfens.github.io/website/post/drzavno-takmicenje-2017/</guid>
       <description>Državno takmičenje iz primenjene fizike i elektronike je održano 27. maja 2017. godine u Matematičkoj gimnaziji u Beogradu. Na tačmičenju je učestvovalo trinaest učenika sa sekcija iz Novog Sada, Beograda i Kragujevca. Srđan Radović i Predrag Ožegović, učenici Gimnazije “Jovan Jovanović Zmaj”, su osvojili redom drugu i treću nagradu.</description>
@@ -97,7 +99,7 @@ Predavanja U školskoj godini je održano trideset šest predavanja podeljenih u
     <item>
       <title>Sekcijsko takmičenje 2017</title>
       <link>https://pfens.github.io/website/post/sekcijsko-takmicenje-2017/</link>
-      <pubDate>Thu, 04 May 2017 00:00:00 UTC</pubDate>
+      <pubDate>Thu, 04 May 2017 00:00:00 +0000</pubDate>
       
       <guid>https://pfens.github.io/website/post/sekcijsko-takmicenje-2017/</guid>
       <description>Sekcijsko tamičenje je održano 3. maja 2017. godine. Na takmičenju je učestvovalo četiri učenika. Prvo mesto je osvojio Lazar Pajović-Đurović, drugo mesto je osvojio Srđan Radović, a treće mesto je osvojio Predrag Ožegović.</description>
@@ -106,7 +108,7 @@ Predavanja U školskoj godini je održano trideset šest predavanja podeljenih u
     <item>
       <title>Festival nauke &#34;Daj(t)e se na znanje&#34;</title>
       <link>https://pfens.github.io/website/post/festival-dajte-se-na-znanje-2017/</link>
-      <pubDate>Tue, 18 Apr 2017 00:00:00 UTC</pubDate>
+      <pubDate>Tue, 18 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://pfens.github.io/website/post/festival-dajte-se-na-znanje-2017/</guid>
       <description>U Prvoj Kragujevačkoj gimnaziji je održan festival nauke &amp;ldquo;Daj(t)e se na znanje&amp;rdquo; na kojem su učestvovale PFE sekcije iz Novog Sada, Beograda, Kragujevca i Požege.</description>
@@ -115,7 +117,7 @@ Predavanja U školskoj godini je održano trideset šest predavanja podeljenih u
     <item>
       <title>Sajt sekcije</title>
       <link>https://pfens.github.io/website/post/sajt-pokrenut/</link>
-      <pubDate>Sun, 12 Mar 2017 00:00:00 UTC</pubDate>
+      <pubDate>Sun, 12 Mar 2017 00:00:00 +0000</pubDate>
       
       <guid>https://pfens.github.io/website/post/sajt-pokrenut/</guid>
       <description>Dobrodošli na sajt sekcije. Na njemu možete pratiti sva dešavanja na sekciji, kao i da preuzmete prezentacije sa predavanja.
@@ -124,4 +126,3 @@ Za više informacija, posetite stranicu o nama.</description>
     
   </channel>
 </rss>
-

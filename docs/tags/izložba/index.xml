@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Izložba on Sekcija primenjene fizike i elektronike u Novom Sadu </title>
-      <generator uri="https://gohugo.io">Hugo</generator>
+    <title>Izložba on Sekcija primenjene fizike i elektronike u Novom Sadu</title>
     <link>https://pfens.github.io/website/tags/izlo%C5%BEba/</link>
+    <description>Recent content in Izložba on Sekcija primenjene fizike i elektronike u Novom Sadu</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 22 Mar 2018 00:00:00 +0000</lastBuildDate>
     
+	<atom:link href="https://pfens.github.io/website/tags/izlo%C5%BEba/index.xml" rel="self" type="application/rss+xml" />
     
-    <updated>Thu, 22 Mar 2018 00:00:00 UTC</updated>
     
     <item>
       <title>PFE konferencija 2018</title>
       <link>https://pfens.github.io/website/post/pfe-konferencija-2018/</link>
-      <pubDate>Thu, 22 Mar 2018 00:00:00 UTC</pubDate>
+      <pubDate>Thu, 22 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>https://pfens.github.io/website/post/pfe-konferencija-2018/</guid>
       <description>U Istraživačkoj stanici Petnici, kao kod mnogih drugih naučnih institucija se svake godine održava saborna konferencija naučnih radova. Na ovakvim konferencijama se izlažu rezultati rada, razmenjuju se ideje i stiču se nova poznanstva.
@@ -23,7 +25,7 @@ Na konferenciji je izloženo preko četrdeset radova polaznika ovih sekcija.</de
     <item>
       <title>Festival nauke &#34;Daj(t)e se na znanje&#34;</title>
       <link>https://pfens.github.io/website/post/festival-dajte-se-na-znanje-2018/</link>
-      <pubDate>Wed, 21 Mar 2018 00:00:00 UTC</pubDate>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>https://pfens.github.io/website/post/festival-dajte-se-na-znanje-2018/</guid>
       <description>U Prvoj Kragujevačkoj gimnaziji je održan festival nauke &amp;ldquo;Daj(t)e se na znanje&amp;rdquo; na kojem su učestvovale PFE sekcije iz Novog Sada, Beograda, Kragujevca, Požege i Kraljeva.</description>
@@ -32,7 +34,7 @@ Na konferenciji je izloženo preko četrdeset radova polaznika ovih sekcija.</de
     <item>
       <title>Festival nauke &#34;Daj(t)e se na znanje&#34;</title>
       <link>https://pfens.github.io/website/post/festival-dajte-se-na-znanje-2017/</link>
-      <pubDate>Tue, 18 Apr 2017 00:00:00 UTC</pubDate>
+      <pubDate>Tue, 18 Apr 2017 00:00:00 +0000</pubDate>
       
       <guid>https://pfens.github.io/website/post/festival-dajte-se-na-znanje-2017/</guid>
       <description>U Prvoj Kragujevačkoj gimnaziji je održan festival nauke &amp;ldquo;Daj(t)e se na znanje&amp;rdquo; na kojem su učestvovale PFE sekcije iz Novog Sada, Beograda, Kragujevca i Požege.</description>
@@ -40,4 +42,3 @@ Na konferenciji je izloženo preko četrdeset radova polaznika ovih sekcija.</de
     
   </channel>
 </rss>
-
