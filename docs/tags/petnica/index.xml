@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Petnica on Sekcija primenjene fizike i elektronike u Novom Sadu</title>
+    <link>https://pfens.github.io/website/tags/petnica/</link>
+    <description>Recent content in Petnica on Sekcija primenjene fizike i elektronike u Novom Sadu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://pfens.github.io/website/tags/petnica/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Prijave za programe u IS Petnici za 2019. godinu</title>
+      <link>https://pfens.github.io/website/post/petnica-prijave-2019/</link>
+      <pubDate>Tue, 09 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://pfens.github.io/website/post/petnica-prijave-2019/</guid>
+      <description>Istraživačka stanica Petnica objavljuje konkurs za prijavljivanje za obrazovne programe namenjene srednjoškolcima u 2019. godini. Konkurs je otvoren za sve učenike srednjih škola sa teritorije Srbije, Crne Gore, Hrvatske, Bosne i Hercegovine, Makedonije i Slovenije. Prijavljivanje traje do 26. 11. 2018.
+Prijavna dokumentacija i uputstvo se može preuzeti ovde.
+Više informacija na zvaničnom sajtu Istraživačke stanice.</description>
+    </item>
+    
+  </channel>
+</rss>
